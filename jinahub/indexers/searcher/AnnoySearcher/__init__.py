@@ -1,1 +1,1 @@
-from .annoy_searcher import AnnoyIndex
+from .annoy_searcher import AnnoySearcher
